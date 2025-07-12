@@ -17,7 +17,8 @@ This is a fully responsive Amazon product page clone built using HTML and CSS, r
 
 
 
-✅ Sticky sidebars for product images and purchase box (like original Amazon)
+✅ Sticky sidebars for product images and purchase box (like original Amazon page)
+
 
 ✅ Scrollable product thumbnail carousel
 
